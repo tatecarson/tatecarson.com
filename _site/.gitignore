@@ -1,3 +1,4 @@
+_site
 .idea
 node_modules
 .psd 
@@ -58,4 +59,3 @@ cscope.files
 cscope.out
 cscope.in.out
 cscope.po.out
-_site/wireframe.psd

@@ -1,0 +1,83 @@
+.home-wrap
+  display: flex
+  min-height: 100vh
+
+  @media (max-width: 775px)
+    display: block
+
+.home-sections
+  flex: 1
+
+  section
+    padding: 1px 0
+
+
+  // flex classes, how the columns are displayed
+  .flex
+    display: flex
+    flex-direction: row
+
+  .flex--wrap
+    flex-wrap: wrap
+
+  .flex--center
+    justify-content: center
+
+  .flex--space-around
+    justify-content: space-around
+
+  .order-first
+    order: -1
+
+// dimensins of columns
+// --------------------
+
+// 2 col
+.col-1
+  max-width: 300px
+  margin: 0 15px
+
+  //to see dimensions of box
+  //background: pink
+
+// 1 col span
+.col-2
+  flex-basis: 300px
+  flex-grow: 1
+  margin: 0 17px 30px 40px
+  //background: pink
+
+.col-3
+  max-width: 300px
+  margin: 0 10px
+  box-sizing: border-box
+
+.col-50
+  width: 50%
+
+.push-left
+  margin-right: 300px
+
+.push-up
+  margin-bottom: 100px
+  height: 300px
+
+.last
+  max-width: 375px
+
+@media (max-width: 640px)
+  .home-sections .flex
+    display: block
+
+  .col-1
+    max-width: 100%
+
+  .col-50
+    width: auto
+
+
+//typogrpahy
+
+.home-lead
+  font-size: 36px
+  line-height: 1
