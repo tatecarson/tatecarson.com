@@ -1,0 +1,21 @@
+mixin nav-content()
+
+  ul
+    li: a(href='#about') About
+    li: a(href='#composition') Compositions
+    li: a(href='#dance') Dance
+    li: a(href='#film') Film
+    li: a(href='#contact') Contact
+
+.mobile-nav
+  +nav-content()
+
+  
+header
+  .header-position
+    h1.logo tate carson
+    
+    nav.site-nav 
+      +nav-content()
+
+    .mobile-nav-toggle: span 
