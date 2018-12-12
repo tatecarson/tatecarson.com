@@ -419,12 +419,12 @@ hr {
   height: 0; }
 
 a {
-  color: #34515e;
+  color: #213842;
   text-decoration: none;
   outline: 0; }
 
 a:hover, a:focus {
-  color: #588aa0; }
+  color: #437286; }
 
 ::-moz-selection {
   background: #FFF498; }
