@@ -14,17 +14,13 @@
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="assets/css/main.css">
   {% if page.type =="post" %}{{ page.styles }}{% endif %}
-  <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-    crossorigin="anonymous"></script> -->
+
 </head>
 
 <body class="{% if page.home %}home blog logged-in{% endif %} {{ page.type }} {%if page.body-name%}{{ page.body-name }}{% endif %}">
-
+  
   {{ content }}
 
-  <!-- {% if page.url == "/index.html" %}
-  <script src="/assets/js/functions.js"></script>
-  {% endif %} -->
   <script src="assets/js/jquery-3.3.1.min.js"></script>
   <script src="assets/js/functions.js"></script>
 </body>
