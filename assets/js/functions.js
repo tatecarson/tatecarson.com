@@ -1,4 +1,5 @@
 $(function () {
+  console.log('upddatteee!!!!')
   mentoringBubbleClick();
   setInterval(function () { articleTada() ;}, 4000);
   designBGStuff();

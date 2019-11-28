@@ -1,6 +1,7 @@
 .idea
 node_modules
 .psd 
+.env
 
 # Created by https://www.gitignore.io/api/osx,jekyll,sass
 

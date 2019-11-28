@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/tatecarson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://tatecarson.com
+  * I am tatecarson (https://keybase.io/tatecarson) on keybase.
+  * I have a public key ASBxjp3cdODxsmrL2ej_xlmKY2wtU8DqDO44CbVvbhfhwQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120718e9ddc74e0f1b26acbd9e8ffc6598a636c2d53c0ea0cee3809b56f6e17e1c10a",
+      "host": "keybase.io",
+      "kid": "0120718e9ddc74e0f1b26acbd9e8ffc6598a636c2d53c0ea0cee3809b56f6e17e1c10a",
+      "uid": "7f639c8b78107a2c5ef2869130119019",
+      "username": "tatecarson"
+    },
+    "merkle_root": {
+      "ctime": 1574915331,
+      "hash": "6b2e33c68898a3b7697096035b1a29df76a840de3521ad0d3d13f687dcb3e2e56c25698a6f608e144d9cdf8480349dca6969af5ef398b89c466c7bf3bcf64e41",
+      "hash_meta": "5e37704696dd55f546d6eab3905546687edc67b507b563d599af0b2ed688ce02",
+      "seqno": 11138972
+    },
+    "service": {
+      "entropy": "uhHnvY9rjLV6ZQeAw0kvFmMw",
+      "hostname": "tatecarson.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574915339,
+  "expire_in": 504576000,
+  "prev": "a30678d646d0b4c45d5ef6375d616362f13f6ce3669e5599b9b87ae73fab2936",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcY6d3HTg8bJqy9no/8ZZimNsLVPA6gzuOAm1b24X4cEKp3BheWxvYWTESpcCC8QgowZ41kbQtMRdXvY3XWFjYvE/bONmnlWZubh65z+rKTbEIAEeHy7oNBszhoYAt8P+MoKEBAuVcN5ocaxo1Y3jS4fiAgHCo3NpZ8RAkeKTe29VMX5dxcn+ZRwpPAZhsf+FoYole+Td8eizYNQUF0xz/ZRH1M/jiHtOyIJwm6htoby0pI3zkAyckw6wAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDH8RUFy2RiJE3Rs0BcDscI2Esc0OhCeGWA7oHAiZxo6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/tatecarson
+
+==================================================================
